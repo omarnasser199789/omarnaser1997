@@ -30,7 +30,7 @@
 <br>
 <br>
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=jakansha2001&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=omarnaser1997&show_icons=true&theme=tokyonight" 
 />
 
 <a href="https://www.buymeacoffee.com/akansha1611" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
