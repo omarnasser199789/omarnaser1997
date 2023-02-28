@@ -24,7 +24,7 @@
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
 
-<a href="https://www.linkedin.com/in/omar-mouhamad-nasser/"><img align="left" title="LinkedIn - Omar Nasser" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href="https://www.linkedin.com/in/omar-mouhamad-nasser/"><img align="left" title="LinkedIn - Omar Nasser" alt="LinkedIn" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
 <a href="mailto:jakansha2001@gmail.com"><img align="left" title="Mail - Omar Nasser" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
 
 <br>
