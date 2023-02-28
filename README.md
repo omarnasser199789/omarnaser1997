@@ -8,7 +8,7 @@
 ### 😄 Pronouns: -->
 <h3 style="left: 50px; position:relative;">About me:</h3>
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 - 💻 Flutter Developer
 - 📖 Diploma in German Language
 - 🤝 Looking to collaborate on Flutter 
