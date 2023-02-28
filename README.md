@@ -1,6 +1,6 @@
 > **It always seems *impossible* until it's done.  ~ Omar Nasser**
 
-<h1 align="center">Hey there👋! I'm Akansha Jain </h1>
+<h1 align="center">Hey there👋! I'm Omar Nasser </h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b761185acf68a17448f8c961ce7aeb953579021c560b9&rid=giphy.gif&ct=g" width="45%" height="70%" style="margin:0 50px;"> 
 
