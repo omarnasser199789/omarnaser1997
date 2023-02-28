@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: He/Him
 - 💻 Flutter Developer
-- 📖 Diploma in German Language
+- 📖 Master in IU International University of Applied Sciences
 - 🤝 Looking to collaborate on Flutter 
 - ⭐ Google Developer Student Clubs Lead' 21 @GDSC SRCASW
 - 🏆 Former Gold Microsoft Learn Student Ambassador
@@ -18,7 +18,6 @@
 - ☁  Google Cloud Facilitator' 21
 - 📱 Android Study Jams Facilitator 2021-22
 - 🤠 Open Source Enthusiast 
-- 👩‍🎨 UI/UX Designer
 - ⚡ Fun fact: I like to play Guitar! 🎸
 - 🐕 PS : Cats are cute but I am more of a DOG person 😉
 
